@@ -1,0 +1,19 @@
+{
+  "name": "development",
+  "version": "0.0.0",
+  "homepage": "https://github.com/hongbojing/day63",
+  "authors": [
+    "Hongbo Jing <jack.jing7@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  }
+}
